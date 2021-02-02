@@ -9,6 +9,6 @@ I like challenges and I am always motivated to learn new technology.
 :pager: HTML / CSS
 :crystal_ball: JAVASCRIPT 
 
-- 📫 How to reach me: sofianesprit@gmail.com 
+- 📫 How to reach me: khalilharizi3@gmail.com 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harizikhalil)](https://github.com/anuraghazra/github-readme-stats)
